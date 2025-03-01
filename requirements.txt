@@ -1,0 +1,14 @@
+asyncio
+pyttsx3
+pywhatkit
+datetime
+wikipedia
+pyjokes
+time
+webbrowser
+requests
+aiohttp
+SpeechRecognition
+webdriver-manager
+python-weather
+selenium
